@@ -2,7 +2,7 @@
   "name": "crypto-tracker",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://amirsaga.github.io/cropty-tracker"
+  "homepage": "https://amirsaga.github.io/cropty-tracker",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@emotion/react": "^11.11.1",
